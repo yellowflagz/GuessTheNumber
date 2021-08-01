@@ -1,6 +1,4 @@
-# Project Title
-
-Guess The Number ✔️
+# Guess The Number ✔️
 
 ## Description
 
